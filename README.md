@@ -5,4 +5,4 @@ Implementado por – Daniel Bilibio (RA: 1131552;  e-mail: danielbilibio3@gmail.
                                       
 Descrição do jogo: este jogo tem como objetivo desviar o carro de um ambulância em uma rodovia, a cada passagem da ambulância pelo carro é contabilizado um ponto, a cada batida o usuário pressiona ENTER e começa o jogo novamente. Divirta-se!
 
-JOGO --> https://onedrive.live.com/?id=D7103384095CBD8A%219341&cid=D7103384095CBD8A
+
